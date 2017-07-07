@@ -1,5 +1,10 @@
 # MavESP8266
 
+## For Wemos D1 mini
+	
+Use D7 in place of RX
+Use D8 in place of TX
+
 ## Current Binary
 
 Download the current version from here: [Firmware version 1.1.1](http://www.grubba.com/mavesp8266/firmware-1.1.1.bin)
